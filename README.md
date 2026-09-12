@@ -4,10 +4,10 @@ Created on Eclipse using Java in October, 2024. Uploaded onto Github Saturday Se
 ## Description
 A simple calculator that takes a user's height and weight and calculates their BMI, built to practice conditional logic and basic GUI elements in Java.
 
-## Built With
-- Java
-- Java Swing/AWT (GUI)
-
 ## Features
 - Accepts height in feet/inches and weight in pounds
 - Calculates and displays BMI based on user input
+
+## Built With
+- Java
+- Java Swing/AWT (GUI)
